@@ -1,6 +1,6 @@
 # 🚀 Mi Proyecto de Automatización de WhatsApp con Selenium
 
-![Banner](./path/to/your/banner-image.jpeg)
+![Banner](https://i.ibb.co/wdp0NvX/fffff.png)
 
 Este repositorio contiene un script desarrollado en Python que automatiza el envío de mensajes e imágenes a través de WhatsApp utilizando Selenium. Es ideal para tareas de notificación recurrentes o actualizaciones automáticas.
 
@@ -30,13 +30,15 @@ Copiar código
 python index.py
 ¡Listo! El script comenzará a enviar mensajes automáticamente según las configuraciones que hayas definido.
 📂 Estructura del Repositorio
-bash
-Copiar código
-├── imagenes/            # Carpeta de imágenes a enviar
-├── schedule.json        # Programación de mensajes
-├── index.py             # Script principal
-├── README.md            # Este archivo
-└── requirements.txt     # Dependencias necesarias
+   ```bash
+  Copiar código
+  ├── imagenes/            # Carpeta de imágenes a enviar
+  ├── schedule.json        # Programación de mensajes
+  ├── index.py             # Script principal
+  ├── README.md            # Este archivo
+  └── requirements.txt     # Dependencias necesarias
+  ```
+
 🌐 Ejemplos de Uso
 Envío de Reportes Automáticos
 
